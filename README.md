@@ -16,8 +16,10 @@ The following **required** functionality is completed:
 
 The following **extensions** are implemented:
 
-* [x] When a map marker is created, the pin is animated.
+* [] When a map marker is created, the pin is animated.
 * [x] List anything else that you did to improve the app functionality or design!
+* [x] Map starts a current location
+* [x] Map animation when turning page
 
 ## Video Walkthrough
 
